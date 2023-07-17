@@ -1,4 +1,1 @@
-# AirBnB_clone
-0x01. AirBnB clone - Web static
-
-ALX/Holburton Schoo
+README.md
